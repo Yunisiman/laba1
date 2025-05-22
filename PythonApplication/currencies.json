@@ -1,0 +1,122 @@
+[
+    [
+        {
+            "Code": "946",
+            "Code with letters": "RON",
+            "Denomination": "1",
+            "Name": "Румынский лей",
+            "Rate": "18.7000"
+        },
+        {
+            "Code": "360",
+            "Code with letters": "IDR",
+            "Denomination": "10000",
+            "Name": "Индонезийский рупий",
+            "Rate": "50.9000"
+        },
+        {
+            "Code": "710",
+            "Code with letters": "ZAR",
+            "Denomination": "10",
+            "Name": "Южноафриканский рэнд",
+            "Rate": "44.7000"
+        },
+        {
+            "Code": "960",
+            "Code with letters": "XDR",
+            "Denomination": "1",
+            "Name": "СДР (специальные права заимствования)",
+            "Rate": "112.5000"
+        },
+        {
+            "Code": "941",
+            "Code with letters": "RSD",
+            "Denomination": "100",
+            "Name": "Сербский динар",
+            "Rate": "78.6000"
+        },
+        {
+            "Code": "702",
+            "Code with letters": "SGD",
+            "Denomination": "1",
+            "Name": "Сингапурский доллар",
+            "Rate": "62.8000"
+        },
+        {
+            "Code": "417",
+            "Code with letters": "KGS",
+            "Denomination": "100",
+            "Name": "Киргизский сом",
+            "Rate": "97.3000"
+        },
+        {
+            "Code": "972",
+            "Code with letters": "TJS",
+            "Denomination": "10",
+            "Name": "Таджикский сомони",
+            "Rate": "77.6000"
+        },
+        {
+            "Code": "398",
+            "Code with letters": "KZT",
+            "Denomination": "100",
+            "Name": "Казахстанский тенге",
+            "Rate": "16.8000"
+        },
+        {
+            "Code": "949",
+            "Code with letters": "TRY",
+            "Denomination": "10",
+            "Name": "Турецкая лира",
+            "Rate": "22.3000"
+        },
+        {
+            "Code": "860",
+            "Code with letters": "UZS",
+            "Denomination": "10000",
+            "Name": "Узбекский сум",
+            "Rate": "65.4000"
+        },
+        {
+            "Code": "348",
+            "Code with letters": "HUF",
+            "Denomination": "100",
+            "Name": "Венгерский форинт",
+            "Rate": "23.2000"
+        },
+        {
+            "Code": "826",
+            "Code with letters": "GBP",
+            "Denomination": "1",
+            "Name": "Фунт стерлингов",
+            "Rate": "109.5000"
+        },
+        {
+            "Code": "203",
+            "Code with letters": "CZK",
+            "Denomination": "10",
+            "Name": "Чешская крона",
+            "Rate": "37.5000"
+        },
+        {
+            "Code": "752",
+            "Code with letters": "SEK",
+            "Denomination": "10",
+            "Name": "Шведская крона",
+            "Rate": "84.7000"
+        },
+        {
+            "Code": "756",
+            "Code with letters": "CHF",
+            "Denomination": "1",
+            "Name": "Швейцарский франк",
+            "Rate": "97.5000"
+        },
+        {
+            "Code": "156",
+            "Code with letters": "CNY",
+            "Denomination": "1",
+            "Name": "Китайский юань",
+            "Rate": 11.5000
+        }
+    ]
